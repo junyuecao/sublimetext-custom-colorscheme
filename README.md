@@ -2,10 +2,10 @@ Sublime text 2 monokai and solarized color scheme with better markdown support
 ================
 
 ## Solarized color scheme
-![Solarized]()
+![Solarized](https://github.com/junyuecao/sublimetext-custom-colorscheme/blob/master/solarized.png?raw=true)
 
 ## Monokai color scheme
-![Monokai]()
+![Monokai](https://github.com/junyuecao/sublimetext-custom-colorscheme/blob/master/monokai.png?raw=true)
 
 ## Installation
 
